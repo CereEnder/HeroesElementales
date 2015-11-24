@@ -22,7 +22,7 @@ El Terreno en el que se juegan las cartas puede suponer la delgada linea entre s
 
 
 
-->![Fuego](http://jesulink.com/fanwiki/images/thumb/7/73/Fuego_big.png/30px-Fuego_big.png) __Fuego__  ![Rayo](http://jesulink.com/fanwiki/images/thumb/d/df/Rayo_big.png/30px-Rayo_big.png) __Rayo__  ![Agua](http://jesulink.com/fanwiki/images/thumb/a/a0/Agua_small.png/30px-Agua_small.png) __Agua__  <-
+![Fuego](http://jesulink.com/fanwiki/images/thumb/7/73/Fuego_big.png/30px-Fuego_big.png) __Fuego__  ![Rayo](http://jesulink.com/fanwiki/images/thumb/d/df/Rayo_big.png/30px-Rayo_big.png) __Rayo__  ![Agua](http://jesulink.com/fanwiki/images/thumb/a/a0/Agua_small.png/30px-Agua_small.png) __Agua__  
 ![Sombra](http://jesulink.com/fanwiki/images/thumb/9/91/Sombra_big.png/30px-Sombra_big.png) __Sombra__ ![Virus](http://jesulink.com/fanwiki/images/thumb/9/95/Virus_big.png/30px-Virus_big.png) __Virus__  ![Mierda](http://jesulink.com/fanwiki/images/thumb/6/61/Mierda_big.png/30px-Mierda_big.png) __Mierda__  
 ![Amor](http://jesulink.com/fanwiki/images/thumb/3/3a/Corazon_big.png/30px-Corazon_big.png) __Amor__ ![Planta](http://jesulink.com/fanwiki/images/thumb/d/d5/Planta_big.png/30px-Planta_big.png) __Planta__ ![Papel](http://jesulink.com/fanwiki/images/thumb/2/2e/Papel_big.png/30px-Papel_big.png) __Papel__  
 
