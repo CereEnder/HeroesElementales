@@ -22,7 +22,7 @@ El Terreno en el que se juegan las cartas puede suponer la delgada linea entre s
 
 
 
-* __Fuego__  
+* __Fuego__  ![Fuego](http://jesulink.com/fanwiki/images/7/73/Fuego_big.png)
 * __Rayo__  
 * __Agua__  
 * __Sombra__  
