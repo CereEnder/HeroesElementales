@@ -1,1 +1,1 @@
-# Duel Cards Elemental 
+# Heroes Elementales - Heroes of the Elements
