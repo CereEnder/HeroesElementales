@@ -23,14 +23,14 @@ El Terreno en el que se juegan las cartas puede suponer la delgada linea entre s
 
 
 * __Fuego__  
-* Rayo  
-* Agua  
-* Sombra  
-* Virus  
-* Mierda  
-* Amor  
-* Planta  
-* Papel  
+* __Rayo__  
+* __Agua__  
+* __Sombra__  
+* __Virus__  
+* __Mierda__  
+* __Amor__  
+* __Planta__  
+* __Papel__  
 
 
 
