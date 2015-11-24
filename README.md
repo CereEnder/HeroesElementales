@@ -22,7 +22,7 @@ El Terreno en el que se juegan las cartas puede suponer la delgada linea entre s
 
 ```
 
-__* Fuego  
+__* Fuego__  
 * Rayo  
 * Agua  
 * Sombra  
@@ -30,7 +30,7 @@ __* Fuego
 * Mierda  
 * Amor  
 * Planta  
-* Papel__  
+* Papel  
 
 ```
 
