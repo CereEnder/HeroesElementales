@@ -28,4 +28,4 @@ El Terreno en el que se juegan las cartas puede suponer la delgada linea entre s
 
 
 
-Sin embargo, la posicion central siempre será del elemento **Alcaesto**. Solo podrán haber dos casillas del mismo elemento en el tablero. Por otra banda, por algunos efectos de carta de criatura o de energia, el elemento de las casillas se pueden modificar para asi dar una buena ventaja estrategica. Así pues, algunas cartas permitiran cambiar una casilla, una fila o columna de casillas, o el tablero entero.
+Sin embargo, la posicion central siempre será del elemento **Alcaesto**. Solo podrán haber dos casillas del mismo elemento en el tablero. Por otra banda, por algunos efectos de carta de criatura o de energia, el elemento de las casillas se pueden modificar para asi dar una buena ventaja estrategica. Así pues, algunas cartas permitiran cambiar **una casilla, una fila o columna de casillas, o el tablero entero**.
