@@ -21,8 +21,8 @@ Las cartas de energia son habilidades que se aplican sobre las **criaturas, el t
 El Terreno en el que se juegan las cartas puede suponer la delgada linea entre si se gana o se pierde. Cada una de las nueve posiciones del tablero pueden ser del tipo de uno de los **Elementos Clase** del juego: 
 
 
-__
-* Fuego  
+
+* __Fuego__  
 * Rayo  
 * Agua  
 * Sombra  
@@ -31,7 +31,7 @@ __
 * Amor  
 * Planta  
 * Papel  
-__
+
 
 
 Sin embargo, la posicion central siempre será del elemento **Alcaesto**. Solo podrán haber dos casillas del mismo elemento en el tablero. Por otra banda, por algunos efectos de carta de criatura o de energia, el elemento de las casillas se pueden modificar para asi dar una buena ventaja estrategica. Así pues, algunas cartas permitiran cambiar una casilla, una fila o columna de casillas, o el tablero entero.
