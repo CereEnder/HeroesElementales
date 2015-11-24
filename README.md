@@ -21,8 +21,8 @@ Las cartas de energia son habilidades que se aplican sobre las **criaturas, el t
 El Terreno en el que se juegan las cartas puede suponer la delgada linea entre si se gana o se pierde. Cada una de las nueve posiciones del tablero pueden ser del tipo de uno de los **Elementos Clase** del juego: 
 
 ```
-__
-* Fuego  
+
+__* Fuego  
 * Rayo  
 * Agua  
 * Sombra  
@@ -30,8 +30,7 @@ __
 * Mierda  
 * Amor  
 * Planta  
-* Papel  
-__
+* Papel__  
 
 ```
 
